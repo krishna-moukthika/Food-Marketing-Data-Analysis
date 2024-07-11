@@ -1,5 +1,5 @@
 Project overview:
-This project is dedicated to analyzing marketing data from U-Food, a Brazilian food company. Using Python libraries such as Pandas, Seaborn, and Matplotlib, the analysis delves into customer behavior, spending patterns, and campaign responsiveness across different demographic segments, giving insightful reports to improve marketing activities.
+This project analyzes U-Food's marketing data to generate insights for improved marketing activities. Using Python (Pandas, Seaborn, Matplotlib), we examine customer behavior, spending, and campaign responsiveness across demographics.
 
 Key Features:
 The project uses data which includes diverse marketing and sales details essential for our analysis. 
